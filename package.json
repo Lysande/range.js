@@ -1,0 +1,27 @@
+{
+  "name": "range.js",
+  "version": "0.1.0",
+  "description": "Create ranges of numbers in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lysande/range.js"
+  },
+  "keywords": [
+    "range",
+    "number",
+    "array",
+    "numeric",
+    "javascript",
+    "js"
+  ],
+  "author": "Emil Johnsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lysande/range.js/issues"
+  },
+  "homepage": "https://github.com/Lysande/range.js"
+}
